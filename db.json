@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "shubham kumar",
+      "email": "shubham@gmail.com",
+      "Adderess": "Bihar"
+    },
+    {
+      "id": 2,
+      "name": "mufeed khan",
+      "email": "mufeed@gmail.com",
+      "Adderess": "Delhi"
+    },
+    {
+      "id": 3,
+      "name": "ayush pal",
+      "email": "ayush@gmail.com",
+      "Adderess": "Ashok Neger"
+    },
+    {
+      "name": "Rajat pal",
+      "email": "rajat@gmail.com",
+      "Adderess": "UP",
+      "id": 4
+    },
+    {
+      "name": "Rahul kumar",
+      "email": "rahul@gmail.com",
+      "Adderess": "noida sector-56",
+      "id": 5
+    },
+    {
+      "name": " Rabab kazi",
+      "email": "rabab@gmail.com",
+      "Adderess": "bombay",
+      "id": 6
+    }
+  ]
+}
